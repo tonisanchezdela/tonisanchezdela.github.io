@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.tonisanchezdela.twa",
-        "sha256_cert_fingerprints": ["42:23:2F:E0:41:7F:D0:28:4D:6F:48:9B:AD:77:08:90:A0:2D:CB:52:9E:CC:55:2B:9A:3E:26:B5:20:CE:BD:84"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tonisanchezdela.twa",
+    "sha256_cert_fingerprints": [
+      "C9:F5:A2:46:89:74:25:3B:54:FA:F4:34:F6:84:04:3C:CD:62:5B:37:26:BB:76:4D:50:CD:83:09:C5:38:69:DD",
+      "42:23:2F:E0:41:7F:D0:28:4D:6F:48:9B:AD:77:08:90:A0:2D:CB:52:9E:CC:55:2B:9A:3E:26:B5:20:CE:BD:84"
+    ]
+  }
+}]
